@@ -1,6 +1,5 @@
 import { TonConnectButton } from '@tonconnect/ui-react'
 import './App.css'
-import WebApp from '@twa-dev/sdk'
 import { Address } from './Address'
 
 function App() {
